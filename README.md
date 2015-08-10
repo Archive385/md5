@@ -1,4 +1,4 @@
 md5 Usage:
 ===============
 
-md5_hash(handle->interface_name, serial_number);
+md5_hash("need_md5_str", "md5_str");
